@@ -1,4 +1,4 @@
-# This repo contains some SPARQL queries
+# SPARQL WikiData
 
 
 SPARQL queries
